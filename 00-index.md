@@ -5,7 +5,7 @@ Central map for Eti's operations, knowledge, and retrieval memory (Tania Khazaal
 - **Owner:** Eti (support & community-operations lead) — support@taniakhazaal.com
 - **Maintained by:** Carolina (Eti Assist copilot)
 - **Created:** 2026-09-09
-- **Last updated:** 2026-09-09
+- **Last updated:** 2026-09-09 (client-facing knowledge base imported)
 
 ---
 
@@ -46,7 +46,10 @@ How Eti works and how I should behave. Living rules — superseded, not deleted.
 - [Link registry](links/link-registry.md) — canonical record of every important link
 
 ### Reference context (`reference/`)
-- [Brand & programs context](reference/brand-and-programs.md) — confirmed vs needs-verification facts
+- [**Client-facing KB — map**](reference/knowledge-base-map.md) — navigable index to the primary source of truth
+- [Programs & tiers](reference/programs-and-tiers.md) — Community vs Premium, Classroom, calls, VIP offer
+- [Brand & programs context](reference/brand-and-programs.md) — short brand facts, points to the map
+- [Source file (verbatim)](reference/source/client-facing-knowledge-base.md) — "Tania Khazaal — Client-Facing Knowledge Base", stored unmodified
 
 ---
 

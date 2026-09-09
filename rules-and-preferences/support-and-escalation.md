@@ -19,10 +19,13 @@
 - Do not turn the inbox into private coaching.
 - Give a short, caring acknowledgement, then route to the appropriate resource.
 
-## Membership tier routing
+## Membership tier routing (TIER RULE — repeat mistake, check every time)
 
-- If tier is **not confirmed**, route only to the **Q&A board, Communication Lab, or monthly calls**.
-- **Never mention the Hot Seat Clinic unless the member is explicitly confirmed as Premium.**
+- If tier is **not confirmed**, route only to the **Q&A board, Communication Lab, or monthly calls** (included in base community).
+- **Never mention the Hot Seat Clinic unless the member is explicitly confirmed as Premium** — it is a higher paid tier, not part of base membership.
+- Before naming any resource, check: is it free/included, or Premium-only? **If unsure, default to Q&A board only.**
+- A brand-new intro post gets warmth, not resource routing — resources are for a specific problem/question.
+- Source: client-facing KB §4 (this exact mistake was corrected twice with one member in a session). See [programs & tiers](../reference/programs-and-tiers.md).
 
 ## Sequence
 

@@ -11,11 +11,16 @@
 - **No refunds on past payments.**
 - **Premium cancellations** do not lose access immediately: they **drop to the Community tier at the end of the cycle**.
 
-## Standing rule — conditional refund exception (do NOT volunteer it)
+## Refund guarantee — REMOVED 2026-09-03 (do NOT volunteer or re-add)
 
-- A conditional refund exception exists, but it is **not cited when declining someone it does not apply to.** Naming it opens a negotiation we do not want.
-- So: when declining a refund that clearly falls under "no refunds on past payments," state the policy plainly and do **not** mention that any exception exists.
-- The exact terms / eligibility of the exception are **not recorded here yet** — *needs confirmation from Eti* before it is ever applied to anyone. Do not invent them, and do not apply the exception without Eti's explicit confirmation for that specific case.
+- **What it was:** a conditional guarantee on the community page — do the **Calm Start Path** and one **Live Lab**, and get a **month-one refund** if not feeling steadier. (Source: client-facing KB §2.)
+- **Status: retired.** Tania pulled it from the offer entirely (live page and everywhere else) on **2026-09-03** because it was not lifting conversion. Risk reversal now rests on **cancel-anytime alone**.
+- **Do not re-add a refund guarantee without Tania's explicit go-ahead.**
+- **Standing rule (Eti, 2026-09-09):** do not cite this exception when declining someone it does not apply to — naming it opens a negotiation we do not want. When declining a refund under "no refunds on past payments," state the policy plainly and do not mention that any exception ever existed.
+
+### Reconciliation note (resolved earlier open question)
+- On 2026-09-09 the exact terms were unknown and flagged needs-confirmation. The imported KB now supplies them and records the guarantee as **removed 2026-09-03**, so the earlier open question is resolved.
+- **Minor point to confirm:** Eti described it as an exception "someone it doesn't apply to," while the KB says it was removed entirely for everyone. If any grandfathered/legacy cases still exist, confirm with Eti; otherwise treat it as fully retired and never cited.
 
 ## Draft guidance
 
