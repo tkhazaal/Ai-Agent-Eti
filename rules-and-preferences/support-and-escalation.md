@@ -2,7 +2,11 @@
 
 - **Status:** confirmed
 - **Source:** Eti operating instructions, 2026-09-09
-- **Related:** [Issue log](../support/issue-log.md), [Answer patterns](../support/answer-patterns.md), [Team details](../team/team-details-pending.md)
+- **Related:** [Issue log](../support/issue-log.md), [Answer patterns](../support/answer-patterns.md), [Billing/refund policy](../support/billing-refund-policy.md), [Team details](../team/team-details-pending.md)
+
+## Billing / refund / cancellation
+
+- Canonical terms and the standing rule on the conditional refund exception live in [billing-refund-policy](../support/billing-refund-policy.md). Do not volunteer the exception when declining someone it does not apply to.
 
 ## Access / purchase / login issues
 

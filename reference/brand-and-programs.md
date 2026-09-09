@@ -7,6 +7,7 @@
 
 - **Tania Khazaal** works with parents of estranged adult children.
 - The only approved fact about Tania's reconciliation story: *"She was the estranged daughter who came back."*
+- **Community:** **Renewal Collective**, hosted on Skool (https://www.skool.com/renewalcollective/about). Shared by Eti 2026-09-09. See [link registry](../links/link-registry.md).
 - **Membership routing:** unconfirmed-tier members go only to **Q&A board, Communication Lab, or monthly calls**. **Hot Seat Clinic** is Premium-only and must not be mentioned unless the member is explicitly confirmed Premium.
 
 ## Programs / offers referenced (details need verification)

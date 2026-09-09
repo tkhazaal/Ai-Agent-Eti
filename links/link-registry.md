@@ -23,9 +23,15 @@ Canonical record of every important link. Search here first when Eti asks for a 
 
 These are referenced in operations but no URL is confirmed yet (see [team details](../team/team-details-pending.md)):
 
-- **Community sign-up link** — status: needs confirmation
 - **Podcast & speaking booking link** — status: needs confirmation
 
 ## Registered links
 
-*No confirmed URLs yet.*
+### Renewal Collective (Skool community)
+- URL: https://www.skool.com/renewalcollective/about
+- Purpose / audience: Tania's community on Skool. Public **about/landing** page. Likely serves as the community sign-up / join entry point.
+- Where it came from: Eti shared it, 2026-09-09
+- Where it has been used / sent: not yet used in a drafted reply
+- Related: community sign-up link in [team details](../team/team-details-pending.md)
+- Last verified: not independently verified
+- Status: **current** (shared by Eti). *Needs confirmation:* is this exact `/about` URL the one to send to prospects, or is there a dedicated join link?

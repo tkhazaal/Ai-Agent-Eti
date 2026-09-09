@@ -35,10 +35,11 @@ How Eti works and how I should behave. Living rules — superseded, not deleted.
 - [Things never to assume or repeat](rules-and-preferences/things-never-to-assume.md)
 
 ### Team (`team/`)
-- [Team details — PENDING confirmation](team/team-details-pending.md) — support email, links, processes, policies still blank
+- [Team details](team/team-details-pending.md) — support email + billing policy confirmed; links, processes, escalation owner still pending
 
 ### Support & communications (`support/`)
 - [Issue log](support/issue-log.md) — complaints, cancellations, refunds, billing, access (structured)
+- [Billing / refund / cancellation policy](support/billing-refund-policy.md) — confirmed policy + standing rule
 - [Answer patterns](support/answer-patterns.md) — reusable approved responses for recurring questions
 
 ### Links (`links/`)

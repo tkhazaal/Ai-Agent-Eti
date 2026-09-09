@@ -10,6 +10,7 @@
 - Do not present an inference as a confirmed fact.
 - Do not mix one customer's / client's / team member's details into another's reply.
 - Do not reintroduce a refund guarantee that is not currently approved.
+- Do not volunteer the conditional refund exception when declining someone it does not apply to (it opens an unwanted negotiation). See [billing-refund-policy](../support/billing-refund-policy.md).
 - Do not use em dashes or canned AI/therapy phrases.
 
 ## Placeholder convention
