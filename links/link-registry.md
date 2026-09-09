@@ -29,9 +29,9 @@ These are referenced in operations but no URL is confirmed yet (see [team detail
 
 ### Renewal Collective (Skool community)
 - URL: https://www.skool.com/renewalcollective/about
-- Purpose / audience: Tania's community on Skool. Public **about/landing** page. Likely serves as the community sign-up / join entry point.
+- Purpose / audience: Tania's community on Skool. **This is where people join** (confirmed by Eti 2026-09-09). Use as the community sign-up link in drafts.
 - Where it came from: Eti shared it, 2026-09-09
 - Where it has been used / sent: not yet used in a drafted reply
 - Related: community sign-up link in [team details](../team/team-details-pending.md)
-- Last verified: not independently verified
-- Status: **current** (shared by Eti). *Needs confirmation:* is this exact `/about` URL the one to send to prospects, or is there a dedicated join link?
+- Last verified: confirmed as the join link by Eti, 2026-09-09
+- Status: **current / confirmed**

@@ -1,13 +1,13 @@
 # Team Details
 
-- **Status:** partially confirmed (2 of 6 filled)
-- **Source:** Eti operating instructions 2026-09-09; support email + billing policy confirmed by Eti 2026-09-09
+- **Status:** partially confirmed (3 of 6 filled)
+- **Source:** Eti operating instructions 2026-09-09; support email, billing policy, and community join link confirmed by Eti 2026-09-09
 - **Action:** remaining blanks to be filled by Eti / team. Until then, drafts use `[confirm current link/process]`.
 
 | Item | Value | Status |
 |------|-------|--------|
 | Support email | support@taniakhazaal.com | **confirmed** (2026-09-09) |
-| Community sign-up link | https://www.skool.com/renewalcollective/about (Renewal Collective, Skool) | shared 2026-09-09; confirm if this exact URL is the join link — see [registry](../links/link-registry.md) |
+| Community sign-up link | https://www.skool.com/renewalcollective/about (Renewal Collective, Skool) | **confirmed** (2026-09-09) — this is where people join. See [registry](../links/link-registry.md) |
 | Podcast & speaking booking link | — | needs confirmation |
 | Approved access-resolution process | — | needs confirmation |
 | Escalation owner / channel | — | needs confirmation |
